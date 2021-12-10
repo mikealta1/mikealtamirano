@@ -1,2 +1,1 @@
-#Hello there
-My first github website
+Welcome to my Data Science Final Project
