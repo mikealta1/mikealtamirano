@@ -12,4 +12,4 @@ Thanks to Citi Bike's data I managed to find the most popular bike stations. The
 
 Here are the most popular bike stations in 2014:
 
-<iframe src="2014map.html" height="500" width="500"></iframe>
+<iframe src="2014Map.html" height="500" width="500"></iframe>
