@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Biking in NYC
-H1: Introduction
-Hi and welcome to my Data Science project on the biking trends in NYC.
+  title: Introduction
+  description: Hi and welcome to my Data Science project on the biking trends in NYC.
