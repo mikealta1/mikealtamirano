@@ -6,6 +6,6 @@ Hi and welcome to my Data Science project on Biking trends in NYC. I want to sta
 
 # Areas where Biking is popular
 
-Heres a map:
+Heres a map 1:
 
 <iframe src="2021map.html" height="500" width="500"></iframe>
