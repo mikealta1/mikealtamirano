@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Should I put something here?
 
 # Introduction
 
