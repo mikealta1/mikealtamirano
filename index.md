@@ -43,8 +43,11 @@ Here you can see the 100 most popular bike stations in 2021. Here my hypothesis 
 Here you can see that the most dangerous borough for biking is Brooklyn followed by Manhattan for both 2014 and 2021 but you can see that overall injuries to cyclists has decreased since 2014 particularly for Manhattan and Brooklyn.
 
 #### Citations
+
 [CitiBike Travel Data](https://ride.citibikenyc.com/system-data)
+
 [OpenData Collisions Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+
 [Citi Bike Image](https://ny.curbed.com/2020/4/14/21220752/citi-bike-coronavirus-healthcare-workers-commute)
 
 
